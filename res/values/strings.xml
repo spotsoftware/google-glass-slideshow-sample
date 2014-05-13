@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Generals -->
+
     <string name="app_name">Bluetooth Slideshow</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Application startup command -->
+
+    <string name="sample_trigger_command">Start slide show sample</string>
 
 </resources>
