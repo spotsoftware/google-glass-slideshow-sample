@@ -11,4 +11,9 @@
 
     <string name="sample_trigger_command">Start slide show sample</string>
 
+    <!-- Placeholders -->
+
+    <string name="sample_item_id_placeholder">ID: %0$d</string>
+    <string name="sample_item_name_placeholder">Name: %1$s</string>
+
 </resources>

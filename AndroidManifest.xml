@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.spot.bluetoothslideshow.MainActivity"
+            android:name="com.spot.bluetoothslideshow.activities.FirstLevelActivity"
             android:immersive="true" >
             <intent-filter>
                 <action android:name="com.google.android.glass.action.VOICE_TRIGGER" />
