@@ -9,7 +9,7 @@
 
     <!-- Application startup command -->
 
-    <string name="sample_trigger_command">Start slide show sample</string>
+    <string name="sample_trigger_command">Slide show</string>
 
     <!-- Placeholders -->
 
