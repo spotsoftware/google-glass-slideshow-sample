@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.google.android.glass.widget.CardScrollView;
-import com.spot.bluetoothslideshow.R;
+import com.spot.glass.slideshow.R;
 import com.spot.bluetoothslideshow.adapters.SampleCardScrollAdapter;
 import com.spot.bluetoothslideshow.models.ISampleModel;
 import com.spot.bluetoothslideshow.models.SampleModel;

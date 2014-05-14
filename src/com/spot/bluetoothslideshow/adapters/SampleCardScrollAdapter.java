@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.spot.bluetoothslideshow.R;
+import com.spot.glass.slideshow.R;
 import com.spot.bluetoothslideshow.models.ISampleModel;
 
 public class SampleCardScrollAdapter extends BaseCardScrollAdapter<ISampleModel> {
