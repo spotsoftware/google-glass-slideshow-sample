@@ -17,3 +17,5 @@ The project was written using the latest version of <a href="http://developer.an
 <br>
 It compiles and runs fine with the 17th release of Google Glass XE (Explorer Edition).
 
+
+[Google Glass at SPOT Software](http://www.spot.it/news/google-glass)
